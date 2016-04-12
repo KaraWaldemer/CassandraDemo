@@ -31,3 +31,22 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+/**/*.iml
+/**/*.ipr
+/**/*.iws
+/.classpath
+/.git
+/.svn
+/.idea
+/.project
+/.settings
+/.sonar-ide.properties
+/atlassian-ide-plugin.xml
+/.ignore
+/**/overlays
+/**/target/
+/**/*.log
+#/*/_ign_mvn_*.log
+*.iml
+.DS_Store
