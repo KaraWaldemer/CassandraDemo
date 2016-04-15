@@ -1,5 +1,5 @@
 # CassandraDemo
-Demo how to connect to and use Cassandra with a variety of different languages. These examples are adapted from and expand upon those from the DataStax driver [documentation](https://academy.datastax.com/downloads/download-drivers).
+This project demos how to connect to and use Cassandra with a variety of different languages. These examples are adapted from and expand upon those from the DataStax driver [documentation](https://academy.datastax.com/downloads/download-drivers).
 
 All of these examples assume you have Cassandra installed locally and running. Please go [here](http://www.planetcassandra.org/cassandra/) for instructions on how to do that.
 
